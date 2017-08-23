@@ -11,11 +11,15 @@ It should fit in most (all?) 60% poker cases.
 
 ## Changelog ##
 
-Rev 1:
+Rev 1 (Orderd through easyeda, verified working):
 
  - Initial rev
 
-Rev 1.1:
+Rev 1.1 (Not verified working):
 
  - Changed PTH holes on sides to edge slot cuts, for ease in mfg
 
+Rev 1.2 (Not verified working):
+
+ - Silkscreen fixes
+ - Move speaker connector, allow for direct drive of 8 ohm speaker
