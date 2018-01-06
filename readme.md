@@ -35,3 +35,7 @@ Rev 2.0 (Not verified working) [gerbers](https://storage.googleapis.com/rpedde-p
 
  - Use SMT diodes rather than through-hole
  - Align components to fit better on vortex cases (braces between rows)
+
+Rev 2.1 (Not verified working)
+
+ - Switch SOD-323 footprint diodes to 0805
