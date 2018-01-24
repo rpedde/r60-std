@@ -38,4 +38,5 @@ Rev 2.0 (Not verified working) [gerbers](https://storage.googleapis.com/rpedde-p
 
 Rev 2.1 (Not verified working)
 
- - Switch SOD-323 footprint diodes to 0805
+ - Switch SOD-323 footprint diodes to 0805 [gerbers](https://storage.googleapis.com/rpedde-public-gerbers/r60-std-r2.1.zip)
+
