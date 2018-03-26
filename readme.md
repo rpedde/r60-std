@@ -36,7 +36,12 @@ Rev 2.0 (Not verified working) [gerbers](https://storage.googleapis.com/rpedde-p
  - Use SMT diodes rather than through-hole
  - Align components to fit better on vortex cases (braces between rows)
 
-Rev 2.1 (Not verified working)
+Rev 2.1 (Not verified working) [gerbers](https://storage.googleapis.com/rpedde-public-gerbers/r60-std-r2.1.zip)
 
- - Switch SOD-323 footprint diodes to 0805 [gerbers](https://storage.googleapis.com/rpedde-public-gerbers/r60-std-r2.1.zip)
+ - Switch SOD-323 footprint diodes to 0805
+
+Rev 3.0 (Not verified working) [gerbers](https://storage.googleapis.com/rpedde-public-gerbers/r60-std-r3.0.zip):
+
+ - Add option for stepped capslock/control
+ - Add option for ISO as well as ANSI
 
