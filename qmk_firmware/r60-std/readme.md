@@ -8,9 +8,9 @@ firmware in this repo, but I did build this with QMK.
 
 Get qmk from https://github.com/qmk/qmk_firwmare
 
-Check out rev aaa67f, link this directory as "r60-std" in keyboards, and
-then 'make default' from the linked directory.  A r60-std_default.hex
-should appear in the root of the qmk directory.
+Check out rev aaa67f, link this directory as "r60" in keyboards, and
+then make from the linked directory.  A r60_default.hex should appear
+in the root of the qmk directory.
 
 ### Default
 
