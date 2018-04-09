@@ -13,8 +13,8 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-#ifndef R60_STD_H
-#define R60_STD_H
+#ifndef _R60_STD_H_
+#define _R60_STD_H_
 
 #include "quantum.h"
 
@@ -35,10 +35,6 @@
  */
 
 
-// This a shortcut to help you visually see your layout.
-// The following is an example using the Planck MIT layout
-// The first section contains all of the arguments
-// The second converts the arguments into a two-dimensional array
 #define KEYMAP( \
     k00, k01, k02, k03, k04, k05, k06, k07, k08, k09, k0a, k0b, k0c, k0d, \
     k10, k11, k12, k13, k14, k15, k16, k17, k18, k19, k1a, k1b, k1c, k1d, \
@@ -54,4 +50,4 @@
     { k40, k41, k42, XXX, XXX, k45, XXX, XXX, k48, k49, k4a, k4b, XXX, XXX }  \
 }
 
-#endif
+#endif /* _R60STD_H_ */
