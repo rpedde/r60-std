@@ -40,7 +40,7 @@ Rev 2.1 (Not verified working) [gerbers](https://storage.googleapis.com/rpedde-p
 
  - Switch SOD-323 footprint diodes to 0805
 
-Rev 3.0 (Not verified working) [gerbers](https://storage.googleapis.com/rpedde-public-gerbers/r60-std-r3.0.zip):
+Rev 3.0 (ISO working, fitment problems with ANSI) [gerbers](https://storage.googleapis.com/rpedde-public-gerbers/r60-std-r3.0.zip):
 
  - Add option for stepped capslock/control
  - Add option for ISO as well as ANSI
